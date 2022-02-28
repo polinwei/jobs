@@ -1,1 +1,1 @@
-require('./bootstrap');
+require('./bootstrap/bootstrap.bundle.min');
